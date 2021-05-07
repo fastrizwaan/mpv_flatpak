@@ -1,3 +1,8 @@
+# THIS IS OLD, INSTALL MPV FROM FLATHUB or SEE this 
+
+LATEST is HERE: https://github.com/flathub/io.mpv.Mpv
+FLATHUB/FLATPAK: https://flathub.org/apps/details/io.mpv.Mpv
+
 # mpv_flatpak
 mpv player flatpak
 
